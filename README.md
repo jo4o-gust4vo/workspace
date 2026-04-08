@@ -40,7 +40,7 @@ Busco atuar na área de Dados, transformando informações em **conhecimento est
 | 🟢 | **[Em construção](./projects)** | Em contrução. | `Power BI` `SQL` `ETL` |
 
 
-*(💡 **Dica:** Clique no nome do projeto na tabela acima para acessar os arquivos `.pbix`, scripts utilizados e as imagens interativas dos dashboards).*
+
 
 ---
 
