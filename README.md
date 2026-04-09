@@ -37,7 +37,7 @@ Busco atuar na área de Dados, transformando informações em **conhecimento est
 
 | Status | Projeto e Link | Descrição Rápida | Tecnologias Utilizadas |
 | :---: | :--- | :--- | :--- |
-| 🟢 | **[Em construção](./projects)** | Em contrução. | `Power BI` `SQL` `ETL` |
+| 🟡 | **[IMDb Analyst](./projects/IMDb_Analyst)** | Análise de Filmes e Séries do IMDb | `Power BI` `SQL` `ETL` |
 
 
 
