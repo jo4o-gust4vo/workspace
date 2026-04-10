@@ -1,5 +1,8 @@
-datasets/title.akas.tsv
-datasets/title.basics.tsv
-datasets/title.epsisode.tsv
-datasets/title.principals.tsv
-datasets/title.ratings.tsv
+/projects/datasets/title.akas.tsv
+/projects/datasets/title.basics.tsv
+/projects/datasets/title.epsisode.tsv
+/projects/datasets/title.principals.tsv
+/projects/datasets/title.ratings.tsv
+
+
+.vscode/
