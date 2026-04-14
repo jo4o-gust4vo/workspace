@@ -1,8 +1,12 @@
-/projects/datasets/title.akas.tsv
-/projects/datasets/title.basics.tsv
-/projects/datasets/title.epsisode.tsv
-/projects/datasets/title.principals.tsv
-/projects/datasets/title.ratings.tsv
+#datasets
+
+projects\IMDb_Analyst\datasets\title.akas.tsv
+projects\IMDb_Analyst\datasets\title.basics.tsv
+projects\IMDb_Analyst\datasets\title.epsisode.tsv
+projects\IMDb_Analyst\datasets\title.principals.tsv
+projects\IMDb_Analyst\datasets\title.ratings.tsv
 
 
 .vscode/
+
+projects\IMDb_Analyst\datasets
