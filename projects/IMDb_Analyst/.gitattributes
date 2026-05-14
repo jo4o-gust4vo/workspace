@@ -1,0 +1,6 @@
+*tsv filter=lfs diff=lfs merge=lfs -text
+projects/IMDb_Analyst/datasets/title.akas.tsv filter=lfs diff=lfs merge=lfs -text
+projects/IMDb_Analyst/datasets/title.basics.tsv filter=lfs diff=lfs merge=lfs -text
+projects/IMDb_Analyst/datasets/title.epsisode.tsv filter=lfs diff=lfs merge=lfs -text
+projects/IMDb_Analyst/datasets/title.principals.tsv filter=lfs diff=lfs merge=lfs -text
+projects/IMDb_Analyst/datasets/title.ratings.tsv filter=lfs diff=lfs merge=lfs -text
