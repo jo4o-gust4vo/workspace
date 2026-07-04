@@ -86,3 +86,7 @@ O painel no Power BI foi projetado respeitando a identidade visual clássica do 
 
 * **Filmes que Mais Receberam Votos: O ranking destaca o domínio de grandes franquias e clássicos, liderados por Star Wars: Episode IV (47 Mi de votos), seguido por Star Wars: Episode V (45 Mi), Star Wars: Episode VI (36 Mi), além de sucessos como The Shawshank Redemption, The Avengers e The Dark Knight.
 
+
+### Dashboard:
+
+![Visualização do Dashboard](images/Dashboard.png)
