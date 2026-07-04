@@ -37,7 +37,7 @@ Busco atuar na área de Dados, transformando informações em **conhecimento est
 
 | Status | Projeto e Link | Descrição Rápida | Tecnologias Utilizadas |
 | :---: | :--- | :--- | :--- |
-| 🟡 | **[IMDb Analyst](./projects/IMDb_Analyst)** | Análise de Filmes e Séries do IMDb | `Power BI` `SQL` `ETL` |
+| 🟢 | **[IMDb Analyst](./projects/IMDb_Analyst)** | Análise de Filmes e Séries do IMDb | `Power BI` `SQL` `ETL` |
 
 
 
@@ -56,7 +56,7 @@ Busco atuar na área de Dados, transformando informações em **conhecimento est
 
 ## 🎓 Formação Acadêmica e Certificações
 
-- 🎓 **Bacharelado em Sistemas de Informação** - Universidade Federal Rural da Amazônia (UFRA)
+- 🎓 **Bacharelado em Sistemas de Informação** - Universidade Federal Rural da Amazônia (UFRA) - Formado
 - 🏆 **Formação Power BI Analyst** - DIO
 - 🏆 **Python AI Backend Developer** - DIO
 - 🏆 **Curso Oracle 2025 Completo** - Udemy
