@@ -47,6 +47,12 @@ Busco atuar na área de Dados, transformando informações em **conhecimento est
 
 ## 💼 Experiência Profissional
 
+**🏢 Agromax New Holland | Analista de Dados** *Emprego Atual*
+- Atuando no time de controladoria, ajudando com análise de dados e implementação de automatização.
+- Desenvolvimento e manutenção de relatórios no **Power BI**, com integração envolvendo Excel, Postgree e Python.
+- Implementação de rotinas com **SQL e Python/API** para trabalhar com dados tabulares e automatizar consultas complexas (CTEs e Funções de Janela).
+- Apoio na elaboração de materiais e painéis para reuniões ou encontros de lideranças focados em tomada de decisões.
+
 **🏢 Vivo Telefônica | Estagiário em Análise de Dados** *Período: 08/2023 - 08/2025*
 - Atuação direta no time de Inteligência da Regional Norte, garantindo informações de qualidade para tomadores de decisão.
 - Desenvolvimento e manutenção de relatórios no **Power BI**, com integração envolvendo Excel, Oracle e Python.
