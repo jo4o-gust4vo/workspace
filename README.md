@@ -38,6 +38,7 @@ Busco atuar na área de Dados, transformando informações em **conhecimento est
 | Status | Projeto e Link | Descrição Rápida | Tecnologias Utilizadas |
 | :---: | :--- | :--- | :--- |
 | 🟢 | **[IMDb Analyst](./projects/IMDb_Analyst)** | Análise de Filmes e Séries do IMDb | `Power BI` `SQL` `ETL` |
+| 🟢 | **[Scrape-Senti](https://github.com/dadosliquidos/scrape-senti)** | Webscraping e análise de sentimentos | `Python` `SQL` `ETL` `LLMs` `llama` |
 
 
 
